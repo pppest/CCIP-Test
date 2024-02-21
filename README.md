@@ -1,2 +1,3 @@
 # CCIP-Test
-Checking out CCIP
+
+Taking a look at CCIP
